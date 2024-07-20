@@ -40,12 +40,12 @@ The primary goal is to empower users with an interactive platform for the follow
 
 [![Screenshot 1](https://github.com/MANAS8991/newstock.github.io/blob/main/Screenshot%20(36).png)](link/to/relevant/page)
 [![Screenshot 2](https://github.com/MANAS8991/newstock.github.io/blob/main/Screenshot%20(37).png)](link/to/relevant/page)
-[![Screenshot 3](path/to/screenshot3.png)](link/to/relevant/page)
-[![Screenshot 2](path/to/screenshot2.png)](link/to/relevant/page)
-[![Screenshot 3](path/to/screenshot3.png)](link/to/relevant/page)
-[![Screenshot 2](path/to/screenshot2.png)](link/to/relevant/page)
-[![Screenshot 3](path/to/screenshot3.png)](link/to/relevant/page)
-
+[![Screenshot 3](https://github.com/MANAS8991/newstock.github.io/blob/main/Screenshot%20(38).png)](link/to/relevant/page)
+[![Screenshot 4](https://github.com/MANAS8991/newstock.github.io/blob/main/Screenshot%20(39).png)](link/to/relevant/page)
+[![Screenshot 5](https://github.com/MANAS8991/newstock.github.io/blob/main/Screenshot%20(42).png)](link/to/relevant/page)
+[![Screenshot 6](https://github.com/MANAS8991/newstock.github.io/blob/main/Screenshot%20(43).png)](link/to/relevant/page)
+[![Screenshot 7](https://github.com/MANAS8991/newstock.github.io/blob/main/Screenshot%20(44).png)](link/to/relevant/page)
+[![Screenshot 8](https://github.com/MANAS8991/newstock.github.io/blob/main/Screenshot%20(45).png)](link/to/relevant/page)
 **Project Limitations and Risks**
 
 * **Market Volatility:** Stock prices are inherently volatile, making accurate predictions challenging.
