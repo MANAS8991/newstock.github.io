@@ -39,7 +39,7 @@ The primary goal is to empower users with an interactive platform for the follow
 **Screenshots**
 
 [![Screenshot 1](https://github.com/MANAS8991/newstock.github.io/blob/main/Screenshot%20(36).png)](link/to/relevant/page)
-[![Screenshot 2](path/to/screenshot2.png)](link/to/relevant/page)
+[![Screenshot 2](https://github.com/MANAS8991/newstock.github.io/blob/main/Screenshot%20(37).png)](link/to/relevant/page)
 [![Screenshot 3](path/to/screenshot3.png)](link/to/relevant/page)
 [![Screenshot 2](path/to/screenshot2.png)](link/to/relevant/page)
 [![Screenshot 3](path/to/screenshot3.png)](link/to/relevant/page)
