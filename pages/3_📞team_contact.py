@@ -6,7 +6,7 @@ with st.container():
 
     st.title("Contact:")
     st.write("##")
-image =Image.open('dp.png')
+image =Image.open('apu4-removebg-preview-modified.png')
 st.image(image, width=600)
 
 def txt2(a, b):
